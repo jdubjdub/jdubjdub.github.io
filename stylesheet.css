@@ -8,3 +8,12 @@ body {
  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
  font-weight: 300;
 }
+
+header {
+  margin: 100px;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
