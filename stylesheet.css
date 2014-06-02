@@ -9,11 +9,7 @@ body {
  font-weight: 300;
 }
 
-header {
+main {
   margin: 100px;
-  text-align: center;
-}
-
-nav {
   text-align: center;
 }
