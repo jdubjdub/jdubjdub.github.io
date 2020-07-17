@@ -73,6 +73,10 @@ h2 {
     line-height: 1.3rem;
 }
 
+p {
+    line-height: 1.2rem;
+}
+
 a:hover {
     font-style: italic;
 }
