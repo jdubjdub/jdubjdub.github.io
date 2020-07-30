@@ -47,6 +47,6 @@ $(document).ready(function () {
         }
     });
     setTimeout(function () {
-        $("body").append("<div id='puglick' style=\"background:url('https://i.giphy.com/NGALQBUgvmVTa.gif');height:100%;width:100%;position:fixed;top:0;left:0;background-size:cover;\" onclick=\"$(this).hide();setTimeout(function(){$('#puglick').show()},300000);\"></div>")
+        $("body").append("<div id='puglick' style=\"background:url('https://i.giphy.com/NGALQBUgvmVTa.gif');height:100%;width:100%;position:fixed;top:0;left:0;background-size:cover;opacity:0.8;\" onclick=\"$(this).hide();setTimeout(function(){$('#puglick').show()},300000);\"></div>")
     }, 300000);
 });
